@@ -3,13 +3,15 @@
 | Section | File |
 |---------|------|
 | Agents, Structured Output, Tools | [agents.ipynb](agents.ipynb) |
+| Handoffs | [handoffs.ipynb](handoffs.ipynb) |
 | Traces | [traces.ipynb](traces.ipynb) |
 | Streaming | [streaming.ipynb](streaming.ipynb) |
 | Streaming Demo | [streaming_demo.ipynb](apps/streaming_demo.ipynb) |
-| Handoffs | [handoffs.ipynb](handoffs.ipynb) |
-| Multi-turn Conversations | [multiturn_convo.ipynb](multiturn_convo.ipynb) |
-| Visualizing | [visualizing.ipynb](visualizing.ipynb) |
 | Guardrails | [guardrails.ipynb](guardrails.ipynb) |
+| Multi-turn Conversations | [multiturn_convo.ipynb](multiturn_convo.ipynb) |
+| Context Management | [context.ipynb](context.ipynb) |
+| Visualizing | [visualizing.ipynb](visualizing.ipynb) |
+| Deep Research Project | [Deep Research Project](projects/deep_research/) |
 
 
 ## Setup Instructions
