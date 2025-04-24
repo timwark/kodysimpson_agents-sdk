@@ -201,3 +201,4 @@ __pycache__
 *.pyc
 
 .env
+.qodo
